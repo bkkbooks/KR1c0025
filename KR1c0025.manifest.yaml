@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR1c0025/v1
 canonical_location: https://kanripo.org/bkk/KR1c0025/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 詩攷
   date: '2015-08-24 22:05:11.590379'
@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR1c0025_000.yaml, hash: 'sha256:1c177a03c4ac3b71af9e3cd6ee5f306462395fc35e9687d72c24d7926e59fe5a'}
-  - {seq: 1, filename: KR1c0025_001.yaml, hash: 'sha256:9923dfbe8a6a1cd8da1edc7dc2448a8c4d23f763e9126d68e96e6e44ed4213d0'}
+  - {seq: 0, filename: KR1c0025_000.yaml, hash: 'sha256:008b3fc98e6a964fda2f20601d95d62a66cbb2034dc2bf10516f3dfa8a230be8'}
+  - {seq: 1, filename: KR1c0025_001.yaml, hash: 'sha256:b5ffa77fcec77f61aa9e9c6276e74e3c1a945d1fe9f2115150517b3a02585cfc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1c0025_000.markers.yaml, hash: 'sha256:70078532660e7d22e3758c1d40bd2cd78eec6fa6d3f52b92d6030cde740d7b90'}
-  - {seq: 1, role: markers, filename: assets/KR1c0025_001.markers.yaml, hash: 'sha256:af02fbe0db1692be40829d801d84b78cf5c56dc4d1f30cda7aad9d7465c13e0c'}
+  - {seq: 0, role: markers, filename: assets/KR1c0025_000.markers.yaml, hash: 'sha256:a28e5333ecba3b4434eb129afc06256bfca24d3268bbe9596c660b52afa4dad7'}
+  - {seq: 1, role: markers, filename: assets/KR1c0025_001.markers.yaml, hash: 'sha256:78239ce0e63901df235aad6801a5a00b51092a7ab0bc173c9c284efe7df1f42d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -56,4 +56,7 @@ table_of_contents:
   label: 詩攷
   type: section
   level: 1
-hash: sha256:0766677e54b86aec3412e713841cfecd13265564f9b7c2d921c865e69bcf7904
+hash: sha256:295b5d44f8802444526891ec7b25fc1556192101912695f17f9909ff5b4e5e5a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
